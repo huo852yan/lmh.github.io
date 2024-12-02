@@ -31,7 +31,7 @@ publication_types: ['paper-conference']
 # publication: In *Hugo Blox Builder Conference*
 # publication_short: In *ICW*
 
-abstract: Recent advances in text-to-image diffusion models have demonstrated impressive capabilities in image quality. However, complex scene generation remains relatively unexplored, and even the definition of ‘complex scene’ itself remains unclear. In this paper, we address this gap by providing a precise definition of complex scenes and introducing a set of \textbf{C}omplex \textbf{D}ecomposition \textbf{C}riteria (\textbf{CDC}) based on this definition. Inspired by the artist's painting process, we propose a training-free diffusion framework called \textbf{C}omple\textbf{x} \textbf{D}iffusion (\textbf{CxD}), which divides the process into three stages- composition, painting and retouching. Our method leverages the powerful chain-of-thought capabilities of large language models (LLMs) to decompose complex prompts based on CDC and to manage composition and layout. We then develop an attention modulation method that guides simple prompts to specific regions to complete the complex scene painting. Finally, we inject the detailed output of the LLM into a retouching model to enhance the image details, thus implementing the retouching stage. Extensive experiments demonstrate that our method outperforms previous SOTA approaches, significantly improving the generation of high-quality, semantically consistent, and visually diverse images for complex scenes, even with intricate prompts.
+abstract: Recent advances in text-to-image diffusion models have demonstrated impressive capabilities in image quality. However, complex scene generation remains relatively unexplored, and even the definition of ‘complex scene’ itself remains unclear. In this paper, we address this gap by providing a precise definition of complex scenes and introducing a set of Complex Decomposition Criteria (CDC) based on this definition. Inspired by the artist's painting process, we propose a training-free diffusion framework called Complex Diffusion (CxD), which divides the process into three stages- composition, painting and retouching. Our method leverages the powerful chain-of-thought capabilities of large language models (LLMs) to decompose complex prompts based on CDC and to manage composition and layout. We then develop an attention modulation method that guides simple prompts to specific regions to complete the complex scene painting. Finally, we inject the detailed output of the LLM into a retouching model to enhance the image details, thus implementing the retouching stage. Extensive experiments demonstrate that our method outperforms previous SOTA approaches, significantly improving the generation of high-quality, semantically consistent, and visually diverse images for complex scenes, even with intricate prompts.
 
 # Summary. An optional shortened abstract.
 summary: Our research introduces a training-free diffusion framework called Complex Diffusion (CxD) that generates high-quality images of complex scenes by decomposing intricate prompts and processing them in stages.
@@ -39,7 +39,7 @@ summary: Our research introduces a training-free diffusion framework called Comp
 tags:
   - Large Language Models
   - Complex Scenes
-  - Diffusion
+  - Diffusion Model
 
 # Display this page in the Featured widget?
 featured: true
@@ -50,7 +50,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/abs/2408.13858'
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
@@ -81,7 +81,7 @@ image:
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -89,4 +89,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
