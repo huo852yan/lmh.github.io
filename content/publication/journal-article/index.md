@@ -3,6 +3,7 @@ title: "SketchRefiner: Text-Guided Sketch Refinement through Latent Diffusion Mo
 authors:
 - admin
 - Yingjie Tian
+- etc.
 author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
