@@ -3,7 +3,7 @@
 title: 刘明皓
 
 # Name pronunciation (optional)
-name_pronunciation: Minghao Liu
+name_pronunciation: Liu Minghao
 
 # Full name (for SEO)
 first_name: Minghao
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD. of University of Chinese Academy of Sciences
+role: PhD. of UCAS
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
