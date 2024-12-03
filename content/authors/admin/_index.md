@@ -49,7 +49,7 @@ profiles:
 interests:
   - Artificial Intelligence 
   - Computer Vision
-  - Aigc
+  - AIGC
 
 education:
   - area: PhD Artificial Intelligence
