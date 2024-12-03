@@ -3,7 +3,7 @@
 title: 刘明皓
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+name_pronunciation: Minghao Liu
 
 # Full name (for SEO)
 first_name: Minghao
