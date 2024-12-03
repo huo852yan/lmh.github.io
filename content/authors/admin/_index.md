@@ -3,7 +3,7 @@
 title: 刘明皓
 
 # Name pronunciation (optional)
-name_pronunciation: Liu Minghao
+name_pronunciation: Liú Mínghào
 
 # Full name (for SEO)
 first_name: Minghao
